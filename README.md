@@ -21,7 +21,7 @@ My name is dechanel bailey. I go to delaware county community college for comput
 
 **Bold** and _Italic_ and `Code` text
 
-https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png(url) and !"Rainbows"src)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Rainbows")
