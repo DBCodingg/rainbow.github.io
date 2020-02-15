@@ -1,43 +1,44 @@
-## Welcome to GitHub Pages
+# Portfolio
 
-You can use the [editor on GitHub](https://github.com/dechanelbailey/rainbow.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**You have one month to create your professional Portfolio and work on your daily or weekly exercises and projects!**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Dream Job](Dream_job_next_exit.jpg)
 
-### Markdown
+## Prerequisites
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First retrieve your previous work
+https://github.com/simplonco/Create-a-CV-with-Bootstrap-to-conquer-the-World
 
-```markdown
-Syntax highlighted code block
+## Checklist
 
-My name is dechanel bailey. I go to delaware county community college for computer programming. I will graduate in summer 2020 and i am excited to enroll in peirce college in the fall. 
+* Link your **GitHub** account https://github.com/settings/profile (take the time to fill out your profile information)
+* Link your **LinkedIn** account
+* Link your **Stack Overflow Carrers** account (if you do not have one, create it on http://careers.stackoverflow.com/)
 
-- Bulleted
-- List
+## Hosting
 
-1. Numbered
-2. List
+Upload your website with GitHub page, more info here:
+https://pages.github.com/
 
-**Bold** and _Italic_ and `Code` text
+## Inspirations
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+* http://www.awwwards.com/websites/portfolio/
+* https://onepagelove.com/gallery/portfolio/
+* http://jgthms.com/web-design-in-4-minutes/
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Rainbows")
+## Montreuil - Promo #5
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Rainbows"
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dechanelbailey/rainbow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* https://aboualnaser.github.io
+* https://ahmedsalem1210.github.io (username aren't professional)
+* https://alizaidi1.github.io (username aren't professional)
+* https://amare16.github.io (username aren't professional)
+* https://beriva.github.io
+* https://bmiande.github.io
+* https://elmardi2.github.io (username aren't professional
+* https://kalaaji.github.io
+* https://omar90sh.github.io (username aren't professional)
+* https://sabachadi.github.io
+* https://sakhradam.github.io
+* https://solomongamid.github.io
+* https://tarek666.github.io (username aren't professional, but cool)
+* https://thamoui.github.io
