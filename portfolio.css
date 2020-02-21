@@ -2,23 +2,17 @@
 <html>
 <head>
 <style>
-h1 {
-  color: blue;
-</h1>
+body {
+  background-color: coral;
 }
-
 </style>
 </head>
 <body>
 
-<h1>CSS background-color example
-    background-color: blue;
-}
-<div>
-This is a text inside a div element.
-<p>This paragraph has its own background color.</p>
-We are still in the div element.
-</div>
+<h1>The background-color Property</h1>
+
+<p>The background color can be specified with a color name.</p>
 
 </body>
 </html>
+
